@@ -1,0 +1,65 @@
+{
+  "6300568870": {
+    "user_id": 6300568870,
+    "username": "Sathishkumar33",
+    "first_name": "Sathish",
+    "first_seen": "2025-08-16T06:28:10.183207",
+    "last_active": "2025-08-16T06:50:21.835753",
+    "search_history": [
+      {
+        "query": "coolie",
+        "content_type": "movie",
+        "timestamp": "2025-08-16T06:39:32.921676"
+      },
+      {
+        "query": "Wednesday",
+        "content_type": "tv",
+        "timestamp": "2025-08-16T06:50:21.942059"
+      }
+    ],
+    "interactions": [
+      {
+        "content_id": 1061474,
+        "content_type": "movie",
+        "action": "view",
+        "timestamp": "2025-08-16T06:38:36.685246"
+      },
+      {
+        "content_id": 1153399,
+        "content_type": "movie",
+        "action": "view",
+        "timestamp": "2025-08-16T06:39:41.621813"
+      },
+      {
+        "content_id": 1726,
+        "content_type": "movie",
+        "action": "view",
+        "timestamp": "2025-08-16T06:49:31.202101"
+      },
+      {
+        "content_id": 119051,
+        "content_type": "tv",
+        "action": "view",
+        "timestamp": "2025-08-16T06:50:26.993374"
+      }
+    ],
+    "preferences": {
+      "genres": {},
+      "actors": {},
+      "directors": {},
+      "content_types": {
+        "movie": 1,
+        "tv": 1
+      }
+    },
+    "favorites": [],
+    "watchlist": [],
+    "ratings": {},
+    "stats": {
+      "total_searches": 2,
+      "total_interactions": 4,
+      "movies_viewed": 3,
+      "tv_shows_viewed": 1
+    }
+  }
+}
