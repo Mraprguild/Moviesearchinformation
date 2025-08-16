@@ -655,8 +655,8 @@ Response Generation → Telegram API → User Interface
 
 1. **Repository Setup**
    ```bash
-   git clone <your-repo-url>
-   cd movie-tv-telegram-bot
+   git clone https://github.com/Mraprguild/Moviesearchinformation.git
+   cd Moviesearchinformation
    git add .
    git commit -m "Initial commit"
    git push origin main
@@ -667,7 +667,7 @@ Response Generation → Telegram API → User Interface
    - Click "New +" → "Web Service"
    - Connect your GitHub repository
    - Configure service settings:
-     - **Name**: `movie-tv-bot`
+     - **Name**: `Moviesearchinformation`
      - **Environment**: `Python 3`
      - **Build Command**: `pip install flask python-telegram-bot requests python-dotenv jinja2`
      - **Start Command**: `python main.py`
